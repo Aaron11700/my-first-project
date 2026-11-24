@@ -3,4 +3,3 @@ My GitHub Notes
 1. I know how to create a repository.
 2. I know how to upload files.
 3. I am learning GitHub.
-4. This is a mistake that I want to undo.
